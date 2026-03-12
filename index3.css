@@ -1,1 +1,35 @@
- 
+body {
+  font-family: Georgia, serif;
+  margin: 30px;
+  background: #f4f7fb;
+  color: #000000;
+  align-items:center;
+  
+}
+#planets{
+	font-style: semi-bold;
+	font-weight: 400;
+	border: 4px solid;
+	border-collapse: collapse;
+	border-radius:10px;
+
+}
+
+#myHeader{
+	color:#000000;
+	text-align: center;
+	font-weight:25px;
+	font-weight:500;
+}
+th, td{
+	border:4px solid;
+	padding: 10px;
+	text-align: center;
+	font-weight:400;
+	border-radius:10px;
+	
+}
+img {
+	max-width: 100px;
+	border-radius:10px;
+}
