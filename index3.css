@@ -7,7 +7,6 @@ body {
   
 }
 #planets{
-	font-style: semi-bold;
 	font-weight: 400;
 	border: 4px solid;
 	border-collapse: collapse;
@@ -18,7 +17,6 @@ body {
 #myHeader{
 	color:#000000;
 	text-align: center;
-	font-weight:25px;
 	font-weight:500;
 }
 th, td{
